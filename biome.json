@@ -1,0 +1,1 @@
+{ "root": true, "extends": ["../os/biome.json"], "files": { "includes": ["!launchpad.json"] } }
